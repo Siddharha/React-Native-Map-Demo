@@ -1,0 +1,7 @@
+#Wed Mar 18 12:53:56 IST 2020
+base.0=/home/siddharthamaji/Documents/React Project/map_demo/android/app/build/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/siddharthamaji/Documents/React Project/map_demo/android/app/build/intermediates/transforms/dexMerger/debug/0
